@@ -14,7 +14,7 @@ Blaster based on Artery AT32F425 (support crystal-less USB), supports JTAG only.
 | JTAG_TDI | PA.3  |
 | JTAG_TDO | PA.0  |
 
-## Blaster-CH32V203
+## Blaster-CH32V203 (not ready)
 Blaster based on WCH CH32V203 (support crystal-less USB), supports JTAG only.
 
 ### Pin map
